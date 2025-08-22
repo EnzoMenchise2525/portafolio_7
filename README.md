@@ -11,6 +11,10 @@
 
   <a href="https://enzomenchise2525.github.io/portafolio_7/"><strong>➥ Live Demo</strong></a>
 
+### Demo Screeshots
+
+![Julia Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+
 </div>
 
 <br />
