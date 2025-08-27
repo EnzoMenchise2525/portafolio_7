@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h2 align="center">Julia - Website</h2>
+  <h2 align="center">Julia - Portafolio Website</h2>
 
   Un sitio web de portafolio personal totalmente adaptable, <br /> Adaptable a todos los dispositivos, creado con HTML, CSS y JavaScript.
   
